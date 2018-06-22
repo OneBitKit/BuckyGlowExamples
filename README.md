@@ -19,3 +19,7 @@ Upload this program onto the Arduino to use the BuckyGlow App.
   This program takes serial commands from the app to light up the
   dome and store up to 40 patterns. Enables user to update BuckyGlow
   patterns in real-time by clicking on the dome presented in the App.
+
+CAPcontrol:
+Upload this program onto the BuckyGlow to control LEDs with capacitive touch sensors.
+  10 capacitive touch sensors can be connected to pins 2-12 as specified below. 
